@@ -1,11 +1,10 @@
-# Spawning JVM process with following configuration...
 import os
 import time
 import subprocess
 import ctypes
 import sys
 
-WLAN = "WLAN"
+FILEDIR = "C:/LunarBypasser"
 
 
 def run_as_admin():
@@ -28,6 +27,20 @@ print("LunarBypasser | v1.0")
 print("Author: HShiDianLu. (2023.11)")
 print("Notice that this program will rewrite Lunar Client log file.")
 print()
+
+if not os.path.exists(FILEDIR):
+    os.mkdir(FILEDIR)
+
+if not os.path.exists(FILEDIR + "/config.ini"):
+    WLAN = input("Please enter the network adapter name (default to WLAN): ")
+    if not WLAN:
+        WLAN = "WLAN"
+    f = open(FILEDIR + "/config.ini", "w")
+    f.write(WLAN)
+    f.close()
+else:
+    WLAN = open(FILEDIR + "/config.ini", "r").read()
+    print("Selected network adapter:", WLAN)
 
 print("Connecting network...", end=" ")
 result = subprocess.run("netsh interface set interface " + WLAN + " admin=enable", capture_output=True, text=True)
