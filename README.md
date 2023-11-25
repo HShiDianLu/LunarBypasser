@@ -1,6 +1,37 @@
-# LunarBypasser
-A program that can bypass Freelook, Auto Text Hot Key, and other mods disabled by Lunar Client, as well as game advertising.
+<h1 align="center">
+  LunarBypasser
+</h1>
+<p align="center">
+  A program that can bypass Freelook, Auto Text Hot Key, and other mods disabled by Lunar Client, as well as game advertising.
+</p>
 
-Usage Guide(zh-cn): [Bilibili](https://www.bilibili.com/video/BV1JG411D7ui)
-#### Warning: The network connection needs to be disconnected during program operation.
-#### Please note that the current program is in an early development state, and problem handling may not be comprehensive. Please provide feedback by submitting issues.
+<p align="center">
+  <a style="text-decoration:none">
+    <img src="https://img.shields.io/github/v/tag/XiaoShen2020/LunarBypasser?label=Version&color=vue" alt="Version"/>
+  </a>
+
+  <a style="text-decoration:none">
+    <img src="https://img.shields.io/github/downloads/XiaoShen2020/LunarBypasser/total?label=Downloads&color=vue" alt="Downloads"/>
+  </a>
+  
+  <a style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Platform-Windows-Vue" alt="Platform">
+  </a>
+  
+  <a style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Lisence-MIT-Vue" alt="Downloads"/>
+  </a>
+
+  <a style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Language-Python-blue" alt="Shitcode"/>
+  </a>
+</p>
+
+## Usage Guide
+> Guide: [Bilibili](https://www.bilibili.com/video/BV1JG411D7ui)
+
+**Warning: The network connection needs to be disconnected during program operation.**
+
+*Please note that the current program is in an early development state, and problem handling may not be comprehensive. Please provide feedback by submitting issues.*
+
+Copyright © 2023 by HShiDianLu.
