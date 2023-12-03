@@ -32,6 +32,7 @@
 
 **Warning: The network connection needs to be disconnected during program operation.**
 
+---
 *In version 2.0, the configuration file structure has been modified.If there are configuration file related issues in future versions, please manually remove C:\LunarBypass\config.ini and restart the program.*
 
 Copyright © 2023 by HShiDianLu.
