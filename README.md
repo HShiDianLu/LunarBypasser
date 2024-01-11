@@ -7,11 +7,11 @@
 
 <p align="center">
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/github/v/tag/XiaoShen2020/LunarBypasser?label=Version&color=vue" alt="Version"/>
+    <img src="https://img.shields.io/github/v/tag/HShiDianLu/LunarBypasser?label=Version&color=vue" alt="Version"/>
   </a>
 
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/github/downloads/XiaoShen2020/LunarBypasser/total?label=Downloads&color=vue" alt="Downloads"/>
+    <img src="https://img.shields.io/github/downloads/HShiDianLu/LunarBypasser/total?label=Downloads&color=vue" alt="Downloads"/>
   </a>
   
   <a style="text-decoration:none">
