@@ -27,7 +27,7 @@
   </a>
 </p>
 
-# 此repo将不再受到任何支持。
+# 工具可能已经失效，此repo将不再维护且不再受到任何支持。
 
 ## Usage Guide
 > Guide: [Bilibili](https://www.bilibili.com/video/BV1JG411D7ui)
